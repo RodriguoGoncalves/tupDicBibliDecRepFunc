@@ -21,4 +21,4 @@ Nesta seção iremos estudar:
 ## Estrutura de Repetição
 ## Funções
 ## Exercicios
-*  **Clique aqui para acessar o google colab:** [https://abre.ai/tiposoperac](https://abre.ai/tupdicbiblidecrepfunc)
+*  **Clique aqui para acessar o google colab:** https://abre.ai/tupdicbiblidecrepfunc
