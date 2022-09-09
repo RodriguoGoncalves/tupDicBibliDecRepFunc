@@ -4,7 +4,7 @@ Template para portfólio de Data Science
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RodriguoGoncalves/Sigmoidal_data_science/main/banner2.png" >
+  <img src="https://raw.githubusercontent.com/RodriguoGoncalves/Sigmoidal_data_science/main/banner4.png" >
 </p>
 
 # Rodrigo Goncalves
